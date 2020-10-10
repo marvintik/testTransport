@@ -8,5 +8,6 @@
   - Документація створена за допомою Swagger UI
 
 # Swagger 2
+http://localhost:8080/swagger-ui.html
 
 ![alt tag](https://github.com/marvintik/testTransport/blob/main/src/main/resources/swagger.jpg)
